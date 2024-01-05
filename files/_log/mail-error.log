@@ -1,0 +1,46 @@
+2024-01-05 12:42:49 [7@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 5 tentatives restantes. Message : [GLPI #0000004] Nouveau ticket Problème avec windows, Erreur : Could not instantiate mail function.
+2024-01-05 12:42:51 [7@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à alicetapsoba20@gmail.com. 5 tentatives restantes. Message : [GLPI #0000004] Nouvel utilisateur responsable Problème avec windows, Erreur : Could not instantiate mail function.
+2024-01-05 12:43:56 [7@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à evencesome@gmail.com. 5 tentatives restantes. Message : [GLPI #0000004] Nouvel utilisateur responsable Problème avec windows, Erreur : Could not instantiate mail function.
+2024-01-05 12:43:58 [7@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à alicetapsoba20@gmail.com. 5 tentatives restantes. Message : [GLPI #0000004] Nouvel utilisateur responsable Problème avec windows, Erreur : Could not instantiate mail function.
+2024-01-05 12:44:00 [7@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 5 tentatives restantes. Message : [GLPI] Nouvelle tâche de projet Installation de GLPI, Erreur : Could not instantiate mail function.
+2024-01-05 13:28:06 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 4 tentatives restantes. Message : [GLPI #0000004] Nouveau ticket Problème avec windows, Erreur : Could not instantiate mail function.
+2024-01-05 13:28:08 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à alicetapsoba20@gmail.com. 4 tentatives restantes. Message : [GLPI #0000004] Nouvel utilisateur responsable Problème avec windows, Erreur : Could not instantiate mail function.
+2024-01-05 13:28:11 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à evencesome@gmail.com. 4 tentatives restantes. Message : [GLPI #0000004] Nouvel utilisateur responsable Problème avec windows, Erreur : Could not instantiate mail function.
+2024-01-05 13:28:13 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à alicetapsoba20@gmail.com. 4 tentatives restantes. Message : [GLPI #0000004] Nouvel utilisateur responsable Problème avec windows, Erreur : Could not instantiate mail function.
+2024-01-05 13:28:15 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 5 tentatives restantes. Message : [GLPI] Mise à jour d'une tâche d'un projet Installation de GLPI, Erreur : Could not instantiate mail function.
+2024-01-05 13:28:17 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 5 tentatives restantes. Message : [GLPI] Mise à jour d'une tâche d'un projet Configuration de GLPI, Erreur : Could not instantiate mail function.
+2024-01-05 13:28:19 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 5 tentatives restantes. Message : [GLPI] Mise à jour d'une tâche d'un projet Mise en réseau et test des fonctionnalités , Erreur : Could not instantiate mail function.
+2024-01-05 13:28:21 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à evencesome@gmail.com. 5 tentatives restantes. Message : [GLPI] Mise à jour d'un projet GLPI , Erreur : Could not instantiate mail function.
+2024-01-05 13:28:23 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 5 tentatives restantes. Message : [GLPI] Mise à jour d'un projet GLPI , Erreur : Could not instantiate mail function.
+2024-01-05 14:57:54 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 3 tentatives restantes. Message : [GLPI #0000004] Nouveau ticket Problème avec windows, Erreur : SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-01-05 14:58:02 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à alicetapsoba20@gmail.com. 3 tentatives restantes. Message : [GLPI #0000004] Nouvel utilisateur responsable Problème avec windows, Erreur : SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-01-05 14:58:10 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à evencesome@gmail.com. 3 tentatives restantes. Message : [GLPI #0000004] Nouvel utilisateur responsable Problème avec windows, Erreur : SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-01-05 14:58:14 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à alicetapsoba20@gmail.com. 3 tentatives restantes. Message : [GLPI #0000004] Nouvel utilisateur responsable Problème avec windows, Erreur : SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-01-05 14:58:18 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 4 tentatives restantes. Message : [GLPI] Mise à jour d'une tâche d'un projet Installation de GLPI, Erreur : SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-01-05 14:58:22 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 4 tentatives restantes. Message : [GLPI] Mise à jour d'une tâche d'un projet Configuration de GLPI, Erreur : SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-01-05 14:58:26 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 4 tentatives restantes. Message : [GLPI] Mise à jour d'une tâche d'un projet Mise en réseau et test des fonctionnalités , Erreur : SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-01-05 14:58:30 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à evencesome@gmail.com. 4 tentatives restantes. Message : [GLPI] Mise à jour d'un projet GLPI , Erreur : SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-01-05 14:58:34 [2@DESKTOP-8G4MAQM]
+Attention : un courriel n'a pas pu être délivré à admsys@localhost. 4 tentatives restantes. Message : [GLPI] Mise à jour d'un projet GLPI , Erreur : SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
